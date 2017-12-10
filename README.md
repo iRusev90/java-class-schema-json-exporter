@@ -7,4 +7,4 @@
  * mvn package
 
 # Usage 
- * foo/bar/start.sh class/path/folder fully.qualified.class.Name
+ * bash foo/bar/start.sh class/path/folder fully.qualified.class.Name
